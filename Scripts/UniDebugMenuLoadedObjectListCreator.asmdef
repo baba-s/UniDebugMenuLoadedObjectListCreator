@@ -1,0 +1,15 @@
+{
+    "name": "UniDebugMenuLoadedObjectListCreator",
+    "references": [
+        "GUID:c3d30b29344d736429b39f3ede8b8bd7"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
